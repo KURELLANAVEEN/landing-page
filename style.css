@@ -27,10 +27,25 @@ body{
     border: 2px solid salmon;
 }
 .right-header1{
-    display: flex;
+    
+    display: flex;    
     align-items: center;
-    justify-content:space-around;
+    justify-content:center;
+    gap: 20px;
 }
+
+.two, .one,.three{
+    color: rgb(1, 61, 21);
+    background: peachpuff;
+    border: 3px solid brown;  
+    flex: 1,1,0;
+    padding: 1.5px;
+}
+
+
+
+
+
 
 
 .header2{
@@ -58,6 +73,14 @@ body{
     width: 300px;
     margin-left:20px;
     height: fit-content;
-    padding-left: 20px;
+    padding-left: 10px;
     color: chocolate;
+}
+button{
+    border-radius: 10px;
+    width: 80px;
+    padding: 3px;
+    margin: 5px 98px;
+    color:coral;
+    background-color: darkolivegreen;
 }
