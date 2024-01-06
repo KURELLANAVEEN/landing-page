@@ -1,5 +1,5 @@
 # landing-page
---This is a landing age which aims to show case the Vanilla HTML and CSS. Everything we see on our webpage is nothing but boxes. Whether they are images, buttons, or big paragraphs, at the end they belong to a box.
+--This is a landing page which aims to show case the Vanilla HTML and CSS. Everything we see on our webpage is nothing but boxes. Whether they are images, buttons, or big paragraphs, at the end they belong to a box.
 
 -- Box is a closed container. When we use frameworks, libraries, this work is pred done by our frameworks(not all, but mostly everything). 
 
